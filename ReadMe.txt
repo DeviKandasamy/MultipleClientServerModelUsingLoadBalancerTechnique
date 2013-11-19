@@ -4,7 +4,9 @@
 *                         	 Project
 *
 *               Development of an efficient multiple Client-Server Model 
-*	 for an Medical Application using Load Balancer Technique README
+*	 for an Medical Application using Load Balancer Technique 
+				
+				 README
 *
 *******************************************************************************
 *
@@ -12,7 +14,7 @@
 *
 * The /home/<login>/AutoTestDir/<login>/P3/ directory contains this README file,
 * the location of this directory is on SCU Linux server.This README describes how
-* to build and run C sample code for client/server on linux and windows.
+* to build and run java code for client/server on linux and windows.
 *
 *
 * For linux:
